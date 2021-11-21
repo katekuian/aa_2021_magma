@@ -1,3 +1,5 @@
 pandas
 folium
 ipykernel
+scikit-learn
+matplotlib
