@@ -6,14 +6,4 @@ ipykernel
 scikit-learn
 matplotlib
 seaborn
-
-# to import another jupyter notebook
-nbformat
-import_ipynb
-
-# to plot H3 hexagons
-plotly
-shapely
-geojson
-h3
-h3-py
+sklearn
