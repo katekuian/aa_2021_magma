@@ -1,8 +1,11 @@
+jupyter
+numpy
 pandas
 folium
 ipykernel
 scikit-learn
 matplotlib
+seaborn
 
 # to import another jupyter notebook
 nbformat
