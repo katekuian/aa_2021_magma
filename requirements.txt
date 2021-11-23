@@ -1,5 +1,9 @@
+jupyter
+numpy
 pandas
 folium
 ipykernel
 scikit-learn
 matplotlib
+seaborn
+sklearn
