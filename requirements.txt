@@ -3,3 +3,4 @@ folium
 ipykernel
 scikit-learn
 matplotlib
+graphviz
