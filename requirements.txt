@@ -4,6 +4,10 @@ ipykernel
 scikit-learn
 matplotlib
 
+# neural networks
+keras
+tensorflow
+
 # to import another jupyter notebook
 nbformat
 import_ipynb
@@ -13,3 +17,9 @@ plotly
 shapely
 geojson
 h3
+
+# to print tables
+tabulate
+
+# to show progress bar
+tqdm
