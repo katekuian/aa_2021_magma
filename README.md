@@ -14,3 +14,10 @@ To fulfill the data analysis and prediction tasks we will use python as a progra
 These notebooks are contained in the folders `01_data_collection_and_preparation`, `02_descriptive_analytics`, `03_cluster_analysis`, `04_predictive_analytics`.  
 The results of our data preperation will be saved together with the original data files in the folder `00_data`.
 Any documents, for example our report, are contained in the folder `documents`.
+
+## `runall.py` script
+
+To work on the tasks collaboratively we will use different branches for each task.  
+Sometimes changes require a re-run of all notebooks. Therefore we created a `runall.py` script that runs all notebooks in the repository.
+To only run notebooks in `01_data_collection_and_preparation` use the `--only-preperation` flag.
+To specify a jupyter kernel to use add the `--kernel=<kernel>` flag. Note that you can find the names of your kernels with the command `jupyter kernelspec list`.
