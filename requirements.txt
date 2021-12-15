@@ -13,3 +13,4 @@ plotly
 shapely
 geojson
 h3
+h3-py
