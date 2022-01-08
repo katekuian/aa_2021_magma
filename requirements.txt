@@ -1,6 +1,29 @@
+jupyter
+numpy
 pandas
 folium
 ipykernel
 scikit-learn
 matplotlib
 graphviz
+seaborn
+
+# neural networks
+keras
+tensorflow
+
+# to import another jupyter notebook
+nbformat
+import_ipynb
+
+# to plot H3 hexagons
+plotly
+shapely
+geojson
+h3
+
+# to print tables
+tabulate
+
+# to show progress bar
+tqdm
