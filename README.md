@@ -7,6 +7,14 @@ The project focus on two core aspects: **system monitoring** and **demand predic
 ## Setup
 
 The data that we analysed is not part of the repository, but to run the notebooks it is necessary to put the files `la_2019.csv` and `weather_hourly_la.csv` in the folder `00_data`.
+To create an conda environment with all necessary packages, run the following command:
+
+**Linux**
+`conda create --name AA_2021_MAGMA --file explicit-linux-64.txt`
+**Windows**
+`conda create --name AA_2021_MAGMA --file explicit-windows-64.txt`
+**MacOS**
+`conda create --name AA_2021_MAGMA --file explicit-macos-64.txt`
 
 ## Repository Structure
 
@@ -14,6 +22,7 @@ To fulfill the data analysis and prediction tasks we will use python as a progra
 These notebooks are contained in the folders `01_data_collection_and_preparation`, `02_descriptive_analytics`, `03_cluster_analysis`, `04_predictive_analytics`.  
 The results of our data preperation will be saved together with the original data files in the folder `00_data`.
 Any documents, for example our report, are contained in the folder `documents`.
+Figures generated during the analysis are saved in the folder `figures`.
 
 ## `runall.py` script
 
