@@ -10,11 +10,11 @@ The data that we analysed is not part of the repository, but to run the notebook
 To create an conda environment with all necessary packages, run the following command:
 
 **Linux**
-`conda create --name AA_2021_MAGMA --file explicit-linux-64.txt`
+`conda create --name AA_2021_MAGMA --file explicit-linux.txt`
 **Windows**
-`conda create --name AA_2021_MAGMA --file explicit-windows-64.txt`
+`conda create --name AA_2021_MAGMA --file explicit-windows.txt`
 **MacOS**
-`conda create --name AA_2021_MAGMA --file explicit-macos-64.txt`
+`conda create --name AA_2021_MAGMA --file explicit-macos.txt`
 
 ## Repository Structure
 
