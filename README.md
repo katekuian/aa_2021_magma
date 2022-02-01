@@ -7,6 +7,9 @@ The project focuses on two core aspects: **system monitoring** and **demand pred
 ## Setup
 
 The data that we analysed is not part of the repository, but to run the notebooks it is necessary to put the files `la_2019.csv` and `weather_hourly_la.csv` in the folder `00_data`.
+All necessary requirements are listed in the requirements.txt file.  
+**Note:** Some of us had problems installing the package `import_ipynb` with
+conda, but it worked with pip.
 
 ## Repository Structure
 
